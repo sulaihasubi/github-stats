@@ -13,6 +13,12 @@ Actions.
 This project is currently a work-in-progress; there will always be more
 interesting stats to display.
 
+
+<a href="https://github.com/sulaihasubi/sulaihasubi.github.io/commits/master">
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/sulaihasubi/sulaihasubi.github.io">
+</a>
+
+
 ## Background
 
 When someone views a profile on GitHub, it is often because they are curious
