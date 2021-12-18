@@ -1,4 +1,4 @@
-# [GitHub Stats Visualization](https://github.com/sulaihasubi/github-stats)
+# [Sulaiha Subi's GitHub Stats Visualization](https://github.com/sulaihasubi/github-stats)
 
 <a href="https://github.com/sulaihasubi/github-stats">
 
