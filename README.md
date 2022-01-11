@@ -1,8 +1,6 @@
 # [Sulaiha Subi's GitHub Stats Visualization](https://github.com/sulaihasubi/github-stats)
 
 <a href="https://github.com/sulaihasubi/github-stats">
-        
-        ![](https://github.com/sulaihasubi/github-stats/blob/master/generated/overview.svg)
 
 ![](https://github.com/sulaihasubi/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/sulaihasubi/github-stats/blob/master/generated/languages.svg)
